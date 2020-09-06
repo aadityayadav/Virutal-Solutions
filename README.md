@@ -1,5 +1,5 @@
 # Virutal-Solutions
-A user-friendlly app providing interactive Laboratory experience at home.
+A user-friendlly app providing interactive Laboratory experience at home. To get more information click the following link: https://youtu.be/_tlwj4kDZU4
 
 # Features
 Interactive GUI system
